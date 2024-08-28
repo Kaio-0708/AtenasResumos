@@ -1,7 +1,5 @@
 # Atenas Resumos
 
-![Atenas Resumos]
-
 ## Otimizando o seu estudo!
 
 Bem-vindo ao **Atenas Resumos**, um portal dedicado a oferecer resumos para otimizar o seu estudo. Acesse os nossos conteúdos e tenha uma experiência de aprendizado eficiente e direcionada.
